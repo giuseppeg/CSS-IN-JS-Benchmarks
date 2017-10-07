@@ -17,7 +17,7 @@
   },
   "benchmarks": {
     "name": "styled-jsx-static",
-    "useInlineStyles": false,
+    "useInlineStyles": true,
     "useCSS": true,
     "link": "https://github.com/zeit/styled-jsx"
   }
